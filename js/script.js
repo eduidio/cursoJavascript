@@ -34,5 +34,5 @@ function ventas (productos1, productos2){
     const precioProducto1= 1000;
     const precioProducto2= 1500;
 
-    return productos1 * precioProducto1 + productos2 * precioProducto2; 
+    return productos1 * precioProducto1 + productos2 * precioProducto2;
 }
